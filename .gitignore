@@ -1,0 +1,9 @@
+# fotos originales sin optimizar (conservan metadatos EXIF/GPS)
+# la web usa las versiones optimizadas de img/
+FB_IMG_*.jpg
+PXL_*.jpg
+
+# archivos temporales
+_*.png
+_*.html
+.DS_Store
